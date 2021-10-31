@@ -1,33 +1,33 @@
 {
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#",
+            "name": "Thilini Deshika",
+            "email": "e16078@eng.pdn.ac.lk",
+            "eNumber": "E/16/078",
+            "github_profile":"https://github.com/Thilini-Deshika",
+            "linkedin_profile":"https://www.linkedin.com/in/thilini-deshika/",
+            "website": "https://thilinideshika.me/"
+        },
+        {
+            "name": "Sudam Kalpage",
+            "email": "e16168@eng.pdn.ac.lk",
+            "eNumber": "E/16/168",
+            "github_profile":"https://github.com/sudamkalpage",
+            "linkedin_profile":"https://www.linkedin.com/in/sudam-kalpage/",
             "website": "#"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#",
-            "website": "#"
-        },
-        {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#",
-            "website": "#"
+            "name": "Hashan Eranga",
+            "email": "e16275@eng.pdn.ac.lk",
+            "eNumber": "E/16/275",
+            "github_profile":"https://github.com/HashanEranga",
+            "linkedin_profile":"https://www.linkedin.com/in/hashan-eranga-57584b136/",
+            "website": "https://hashaneranga.github.io/#/"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
+            "name": "Dr. Janaka Alawatugoda",
             "email": "email@eng.pdn.ac.lk",
             "linkedin_profile":"#",
             "researchgate_profile":"#",
@@ -35,8 +35,8 @@
         },
         {
             "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
+            "email": "alawatugoda@eng.pdn.ac.lk",
+            "linkedin_profile":"https://www.linkedin.com/in/janaka-alawatugoda-53294034/",
             "researchgate_profile":"#",
             "website": "#"
         }
