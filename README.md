@@ -1,7 +1,7 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Project Publication Platform
 ___
 
-## Please refer the instructions in below URL:
+### Website based platform for inventors and students to publish their projects and attract investment to continue their projects to the production stage.
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+https://cepdnaclk.github.io/e16-co328-Project-Publication-Platform/
