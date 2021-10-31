@@ -4,7 +4,7 @@ permalink: index.html
 
 # Please update this with your repository name and title
 repository-name: e16-co328-Project-Publication-Platform
-title:
+title: 
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -13,10 +13,10 @@ title:
 
 ---
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
+<!-- This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
 
 ![Sample Image](./images/sample.png)
-
+ -->
 
 ## Team
 -  E/16/078, Thilini Deshika, [email](mailto:e16078@eng.pdn.ac.lk)
@@ -32,10 +32,10 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+ Website based platform for inventors and students to publish their projects and attract investment to continue their projects to the production stage.
 
-## Other Sub Topics
-
+<!-- ## Other Sub Topics
+ -->
 .....
 
 ## Links
