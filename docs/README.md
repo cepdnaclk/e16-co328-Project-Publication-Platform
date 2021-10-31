@@ -40,8 +40,8 @@ title:
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/{{ page.e16-co328-Project-Publication-Platform }}){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/{{ page.e16-co328-Project-Publication-Platform}}){:target="_blank"}
+- [Project Repository](https://github.com/cepdnaclk/e16-co328-Project-Publication-Platform)
+- [Project Page](https://cepdnaclk.github.io/e16-co328-Project-Publication-Platform/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
